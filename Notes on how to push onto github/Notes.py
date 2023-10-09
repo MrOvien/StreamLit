@@ -38,7 +38,7 @@ git push -u origin master
 
 # note any changes before copy paste
 git add .
-git commit -m "Setting up notes"
+git commit -m "deleted website.txt"
 git push origin master
 
 git push origin master
