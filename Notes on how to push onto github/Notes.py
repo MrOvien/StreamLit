@@ -37,5 +37,11 @@ git push -u origin master
 # Go to your GitHub repository in a web browser and verify that your code has been pushed successfully.
 
 git add .
-git commit -m "Changed to ilford instead of loondon"
+git commit -m "Note any changes"
 git push origin master
+
+git push origin master
+
+# may need to do this first:
+
+git pull origin master
