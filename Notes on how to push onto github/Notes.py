@@ -36,8 +36,9 @@ git push -u origin master
 #
 # Go to your GitHub repository in a web browser and verify that your code has been pushed successfully.
 
+# note any changes before copy paste
 git add .
-git commit -m "Note any changes"
+git commit -m "Setting up notes"
 git push origin master
 
 git push origin master
