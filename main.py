@@ -9,7 +9,7 @@ base_url = "https://api.openweathermap.org/data/2.5/weather"
 st.markdown("<h1 style='text-align:center;'>Weather App</h1>", unsafe_allow_html=True)
 
 # User input for location (e.g., city or zip code) with placeholder text
-location = st.text_input("", value="Ilford",
+location = st.text_input("", value="London",
                          placeholder="Enter location (city or zip code)")
 
 if location:
